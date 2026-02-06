@@ -13,15 +13,7 @@ The script automates:
 
 ---
 
-## ⚠️ Legal Disclaimer
 
-This tool is **ONLY** for:
-- Assets you own
-- Explicitly authorized penetration tests
-- Bug bounty programs that allow automated scanning
-
-**Unauthorized scanning is illegal.**  
-The author assumes no responsibility for misuse.
 
 ---
 
